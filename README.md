@@ -17,9 +17,9 @@ Muse is a stylist and wardrobe app that I am building for my phone. It brings to
 
 The Today screen is where it starts: the weather, a place for today's look, and three quick actions.
 
-<p align="center"><img src="today-light.png" alt="Today: the weather, today's look and quick actions" width="16%"> <img src="today-dark.png" alt="Today screen in dark mode" width="16%"> <img src="lookbook-light.png" alt="Look Book: saved inspiration with search, tags and folders" width="16%"> <img src="menu-light.png" alt="Long press on a look: Ask the stylist or Delete" width="16%"> <img src="detail-light.png" alt="A saved look with the stylist's note" width="16%"> <img src="body-light.png" alt="Body: measurements, shown with sample values" width="16%"></p>
+<p align="center"><img src="today-light.png" alt="Today: the weather, today's look and quick actions" width="19%"> <img src="today-dark.png" alt="Today screen in dark mode" width="19%"> <img src="lookbook-light.png" alt="Look Book: saved inspiration with search, tags and folders" width="19%"> <img src="menu-light.png" alt="Long press on a look: Ask the stylist or Delete" width="19%"> <img src="body-light.png" alt="Body: measurements, shown with sample values" width="19%"></p>
 
-From the left: Today, Today in dark mode, the Look Book, the menu that opens when I long press a look, a saved look with the stylist's note, and Body.
+From the left: Today, Today in dark mode, the Look Book, the menu that opens when I long press a look, and Body.
 
 ## How I built it
 
